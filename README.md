@@ -1,21 +1,24 @@
-# app
+# ☯️周易综合工具
 
-> A Vue.js project
+> 🚀基于vue2.0开发、并使用uniapp打包为apk，拥有以下功能
++ 基于三元命的命格简算及上下6年的流年计算
++ 根据公历转天干地支并根据日柱计算每日穿衣颜色
++ 基于三元命与卦象感应的合婚简算
++ 根据卦象数字感应的手机号包含元素简算
++ 基础的卦象感应功能
++ 简易的基于手机陀螺仪与霍尔元件读数的房屋风水罗盘功能
 
-## Build Setup
+## 🚁开启项目
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开启开发服务
 npm run dev
 
-# build for production with minification
+# 构建项目
 npm run build
 
-# build for production and view the bundle analyzer report
+# 构建项目并查看构建报告
 npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
